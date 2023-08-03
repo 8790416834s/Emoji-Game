@@ -1,0 +1,9 @@
+/* Write your code here. */
+.main-container {
+  background-color: #6a59ff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

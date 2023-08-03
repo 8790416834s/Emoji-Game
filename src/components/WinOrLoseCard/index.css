@@ -1,0 +1,25 @@
+/* Write your code here. */
+.result-container {
+  display: flex;
+  color: #ffffff;
+  background-color: #9796f0;
+  height: 80%;
+  width: 80%;
+  text-align: center;
+  justify-content: space-around;
+}
+.score {
+  color: #6a59ff;
+  font-size: 28px;
+  font-weight: bold;
+}
+.play-button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border-radius: 15px;
+  font-weight: bold;
+  border-width: 0px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+}
